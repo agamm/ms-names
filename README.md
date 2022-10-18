@@ -5,4 +5,4 @@ Names of all students
 ## Names
 
 - Agam More - School Teacher - https://github.com/agamm
-  . Andy Schunke
+- Andy Schunke - Student
